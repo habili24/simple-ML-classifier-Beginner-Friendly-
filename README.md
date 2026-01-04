@@ -1,1 +1,1 @@
-# simple-ML-classifier-Beginner-Friendly-
+# simple ML classifier-Beginner Friendly
